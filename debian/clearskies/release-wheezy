@@ -1,0 +1,5 @@
+APT::FTPArchive::Release::Codename "wheezy";
+APT::FTPArchive::Release::Origin "Sergio Rubio";
+APT::FTPArchive::Release::Label "Clearskies";
+APT::FTPArchive::Release::Architectures "i386 amd64 all";
+APT::FTPArchive::Release::Suite "stable";

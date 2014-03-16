@@ -1,0 +1,8 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+Vagrant.configure("2") do |config|
+  config.vm.box     = "wheezy64"
+  config.vm.box_url = "http://bit.ly/vagrant-lxc-wheezy64-2013-10-23"
+  #config.vm.provision :shell, :path => "provision.sh"
+end

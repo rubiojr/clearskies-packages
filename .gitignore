@@ -1,0 +1,4 @@
+debian/clearskies/wheezy/*
+!debian/clearskies/wheezy/.gitkeep
+.vagrant
+sync-packages.sh
